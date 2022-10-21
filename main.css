@@ -1,0 +1,23 @@
+/* #header {
+    height: 160px;
+} */
+
+img {
+    height: 60px;
+    width: 222px;
+    display: inline-block;
+    position: center;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.h6 {
+    font-size: 12px;
+}
+
+.nav-item {
+
+    position: relative;
+}
